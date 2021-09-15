@@ -7,12 +7,57 @@
    viewBox="0 0 54.454714 8.9525755"
    version="1.1"
    id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="darttrixx.svg"
+   inkscape:export-filename="C:\Users\Hz\Downloads\bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-others="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="82.37794"
+     inkscape:cy="149.55308"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4"
+     inkscape:snap-grids="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px">
+    <sodipodi:guide
+       position="0.67624117,5.5803246"
+       orientation="0,-1"
+       id="guide9418" />
+    <sodipodi:guide
+       position="-0.22733889,11.024135"
+       orientation="0,-1"
+       id="guide9843" />
+  </sodipodi:namedview>
   <defs
      id="defs2">
     <linearGradient
+       inkscape:collect="always"
        id="linearGradient15408">
       <stop
          style="stop-color:#ffffff;stop-opacity:1"
@@ -25,6 +70,7 @@
     </linearGradient>
     <filter
        style="color-interpolation-filters:sRGB"
+       inkscape:label="Invert"
        id="filter885"
        x="0"
        y="0"
@@ -41,6 +87,7 @@
          id="feColorMatrix883" />
     </filter>
     <filter
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter11870"
        x="-0.0093082673"
@@ -48,10 +95,12 @@
        width="1.0186165"
        height="1.1126521">
       <feGaussianBlur
+         inkscape:collect="always"
          stdDeviation="0.035559325"
          id="feGaussianBlur11872" />
     </filter>
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient15408"
        id="linearGradient16658"
        gradientUnits="userSpaceOnUse"
@@ -61,6 +110,7 @@
        y2="110.93761"
        gradientTransform="translate(0.00584525,-0.00877042)" />
     <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient15408"
        id="linearGradient17611"
        gradientUnits="userSpaceOnUse"
@@ -70,6 +120,7 @@
        x2="122.10019"
        y2="110.93761" />
     <filter
+       inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter17613"
        x="-0.053540858"
@@ -77,20 +128,38 @@
        width="1.1070817"
        height="1.0802444">
       <feGaussianBlur
+         inkscape:collect="always"
          stdDeviation="0.013278235"
          id="feGaussianBlur17615" />
     </filter>
   </defs>
   <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 2">
+    <rect
+       style="opacity:0.820513;fill:#3cb37b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;paint-order:normal"
+       id="rect19914"
+       width="68.287361"
+       height="25.256969"
+       x="-3.7417734"
+       y="-9.1673441" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
      transform="translate(-118.97602,-108.32624)">
     <g
        id="g19803"
-       transform="matrix(4.6789703,0,0,4.6789703,-437.70925,-398.52903)">
+       transform="matrix(2.2396879,0,0,2.2396879,-132.06036,-132.29412)">
       <g
          id="g18760"
-         transform="matrix(2.2146411,0,0,2.2146411,-149.4572,-137.21736)"><g
+         transform="matrix(2.2146411,0,0,2.2146411,-149.4572,-137.21736)"
+         inkscape:export-filename="F:\INKSCAAPE\DARTTRIX HD.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><g
    id="g18543"
    transform="translate(-0.79342577,0.36896972)">
   <g
@@ -153,11 +222,13 @@
   <path
      style="fill:url(#linearGradient16658);fill-opacity:1;stroke:none;stroke-width:0.0482637;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
      d="m 122.08322,110.52011 -10e-4,0.79352 c 0.32955,0.0103 0.60495,-0.13902 0.59494,-0.4168 -0.0116,-0.32246 -0.31389,-0.38139 -0.59332,-0.37672 z"
-     id="path11786" />
+     id="path11786"
+     sodipodi:nodetypes="ccscc" />
   <path
      style="opacity:0.814;fill:url(#linearGradient17611);fill-opacity:1;stroke:none;stroke-width:0.0482637;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal;filter:url(#filter17613)"
      d="m 122.08322,110.52011 -10e-4,0.79352 c 0.32955,0.0103 0.60495,-0.13902 0.59494,-0.4168 -0.0116,-0.32246 -0.31389,-0.38139 -0.59332,-0.37672 z"
-     id="path17609" />
+     id="path17609"
+     sodipodi:nodetypes="ccscc" />
 </g>
 </g>
     </g>
